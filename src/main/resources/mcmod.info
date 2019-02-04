@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pm",
+  "name": "Practice Mod",
+  "description": "Mod used for practice.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["izako"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
