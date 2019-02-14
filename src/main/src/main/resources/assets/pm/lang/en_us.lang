@@ -1,0 +1,22 @@
+//items
+
+item.MANGO.name= MANGO
+item.LEGENDARY_SWORD.name= LEGENDARY_SWORD
+item.BANANA.name= banana
+item.lasagna.name= lasagna
+
+//blocks
+
+tile.lasagna_block.name= Lasagna Block
+
+//tools
+item.lasagna_sword.name= Lasagna Sword
+item.lasagna_shovel.name= Lasagna Shovel
+
+//armor
+item.lasagna_helmet.name= Lasagna Helmet
+item.lasagna_chestplate.name= Lasagna Chestplate
+item.lasagna_leggings.name= Lasagna Leggings
+item.lasagna_boots.name= Lasagna Boots
+
+

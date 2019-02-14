@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "LLL",
+        "LLL",
+        "LLL"
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item": "pm:lasagna"
+        }
+    },
+    
+    "result":
+    {
+        "item": "pm:lasagna_block",
+        "count": 1
+    }
+}

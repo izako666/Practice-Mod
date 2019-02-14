@@ -1,0 +1,12 @@
+{
+   "parent": "block/cube",
+   "textures": {
+       "particle": "pm:blocks/lasagna_block_north",
+       "up": "pm:blocks/lasagna_block_up",
+       "down": "pm:blocks/lasagna_block_down",
+       "south": "pm:blocks/lasagna_block_south",
+       "north": "pm:blocks/lasagna_block_north",
+       "west": "pm:blocks/lasagna_block_west",
+       "east": "pm:blocks/lasagna_block_east"
+   }
+}
